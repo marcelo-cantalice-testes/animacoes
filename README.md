@@ -1,4 +1,8 @@
-# animacoes
+# Aprendendo sobre animacoes no Flutter
+
+# Conceitos
+
+# 1. Tipos: Implícita ( Customização moderada e fácil de criar) / Explicita( Customização alta e difícil de criar)
 
 A new Flutter project.
 
